@@ -1,0 +1,14 @@
+C:\github\개인프로젝트\Server\Hyundae_Server\bin\Debug\netcoreapp2.2\Hyundae_Server.deps.json
+C:\github\개인프로젝트\Server\Hyundae_Server\bin\Debug\netcoreapp2.2\Hyundae_Server.runtimeconfig.json
+C:\github\개인프로젝트\Server\Hyundae_Server\bin\Debug\netcoreapp2.2\Hyundae_Server.runtimeconfig.dev.json
+C:\github\개인프로젝트\Server\Hyundae_Server\bin\Debug\netcoreapp2.2\Hyundae_Server.dll
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.csprojAssemblyReference.cache
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.csproj.CoreCompileInputs.cache
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.RazorAssemblyInfo.cache
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.RazorAssemblyInfo.cs
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.AssemblyInfoInputs.cache
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.AssemblyInfo.cs
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.RazorTargetAssemblyInfo.cache
+C:\github\개인프로젝트\Server\Hyundae_Server\bin\Debug\netcoreapp2.2\Hyundae_Server.pdb
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.dll
+C:\github\개인프로젝트\Server\Hyundae_Server\obj\Debug\netcoreapp2.2\Hyundae_Server.pdb
